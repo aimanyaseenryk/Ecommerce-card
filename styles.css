@@ -1,0 +1,131 @@
+.one{
+    height: 1000px;
+    width: 1200px;
+    border: 1px ;
+    background-color:blanchedalmond;
+}
+.f{
+    width:1000px;
+    height: 1000px;
+    display: flex ;
+    border: 2px;
+    margin-left: 100px;
+    padding-top: 40px;
+    
+}
+.two{
+    height: 500px;
+    width:400px;
+    border: 1px;
+    background-color:rgb(132, 86, 94);
+
+}
+.four{
+    height: 500px;
+    width: 400px;
+    border: 1px;
+    background-color:rgb(242, 206, 143);
+    
+}
+.a{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: rgb(97, 88, 88);
+    font-size: 5px;
+}
+.b{
+    margin-left: 30px;
+    color: rgb(215, 154, 40);
+    font-size: 15px;
+}
+.c{
+    margin-left: 30px;
+    color: rgb(215, 154, 40);
+    font-size: 15px;
+    margin-top: -20px;
+}
+.d{
+    margin-left: 270px;
+    margin-top: -90px;
+}
+.e{
+    margin-left: 30px;
+    margin-top: -10px;
+    color: rgb(97, 88, 88) ;
+    font-size: 10px;
+}
+.p{
+    color: rgb(97, 88, 88) ;  
+    margin-left:2PX;
+    margin-top: -10px;
+}
+.q{
+    margin-left: px;
+    margin-top: -10px;
+    color: rgb(97, 88, 88) ;
+}
+.box{
+    width: 300px;
+    height: 80px;
+    border: 1px  ;
+    display: flex;
+}
+.abc{
+    width: 110px;
+    height: 80px;
+    border: 1px ;
+}
+.abd{
+    width: 110px;
+    height: 80px;
+    border: 1px ;
+}
+.s{
+    margin-left: -110px;
+    margin-top: 00px;
+    color: rgb(97, 88, 88) ;
+}
+.t{
+    margin-left: -110px;
+    margin-top: 30px;
+}
+.u{
+    font-size: 10PX;
+    color: rgb(215, 154, 40);
+    margin-left: -110px;
+    margin-top: -10px;
+}
+.v{
+    margin-left: -110px;
+    margin-top: -10px;
+}
+.w{
+    width: 15px;
+    height: 15px;
+    border-radius: 360px;
+    background-color: antiquewhite;
+    border: 1px solid rgb(215, 154, 40) ;
+    margin-left: -110px;
+    margin-top: 40px;
+}
+.x{
+    margin-left: -80px;
+    margin-top: -20px;
+}
+.y{
+    width: 15px;
+    height: 15px;
+    border-radius: 360px;
+    background-color: antiquewhite;
+    border: 1px solid rgb(215, 154, 40) ;
+    margin-left: -110px;
+        margin-top: 20px;
+    }
+    .z{
+        margin-left: -80px;
+            margin-top: -25px;
+    }
+    .ooo{
+        margin-left: 100px;
+        margin-top: -25px;
+    }
